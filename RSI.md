@@ -8,9 +8,8 @@ The **Relative Strength Index (RSI)** is a momentum oscillator widely used in te
 
 The RSI value ranges between 0 and 100 and is calculated using the following formula:
 
-\[
-\text{RSI} = 100 - \left( \frac{100}{1 + RS} \right)
-\]
+
+$$RSI = 100 - (\frac{100}{1 + RS})$$
 
 Where:
 - **RS (Relative Strength)** is the ratio of the average gain to the average loss over a specified period, typically 14 periods.
